@@ -1,0 +1,56 @@
+body
+{margin:0;
+background-color:antiquewhite;
+font-family: Patrick Hand;
+font-size:1.4em;
+
+
+
+}
+
+.heading{
+  
+    height:67px;
+    background-color:aquamarine;
+    border-style:groove;
+    border-color: burlywood;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.realm-heading{
+
+    font-size:20px;
+    position:relative;
+    top: 10px;
+    font-family:Sacramento;
+    font-size:2.5rem;
+    font-weight:bolder;
+}
+.lavclass{
+    text-align: center;
+}
+
+.lav{text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    height:300px;
+}
+.poetry-title{text-align: center;
+    margin-left:auto;margin-right:auto;
+    font-family: Updock;
+    
+}
+
+.poem-body{
+    text-align: center;
+
+}
+
+.copyright{
+    text-align: center;
+}
+
+.pen{
+    height:100px;
+}

@@ -1,0 +1,202 @@
+body{margin:0;
+    
+    
+   
+}
+
+
+
+.myimg{position:relative;
+    left:10px;
+    height:59px;
+    border-width:1px;
+    border-color:black;
+    border-style:solid;
+    border-radius:55px;
+   
+}
+
+
+.anch{
+    display:inline-block;
+    position:relative;
+    left:10px;
+    bottom:25px;
+    
+   
+}
+
+.insta{margin-left:5px; display:inline-block;
+    position:relative;
+    left:10px;
+    bottom:25px;
+}
+
+
+.top{
+    background-color:#5eefd0;
+}
+
+.div{
+    padding-top:150px;
+    margin:auto;
+   text-align: center;
+    background-color:#E4F9F5;
+   
+   
+   
+    border-color:rgb(0, 0, 0);
+   
+    
+}
+.middle-container{padding-top:2px;
+
+  max-width:fitcontent;
+  text-align:center;
+
+ width:100%;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top:3em;
+ margin-bottom:3em;
+   
+}
+
+.bottom-container{
+background-color: #11999E;
+ height:200px;
+ max-width:100%;
+ text-align:center;
+}
+
+
+.topcld{
+    position:absolute;
+    right:20%;
+}
+
+.bottomcld{
+    position:absolute;
+    left:20%;
+}
+
+.hh{
+   font-style: italic;
+   font-family: Sacramento, verdana, serif;
+   font-size:5.625rem;
+   font-weight:bold;
+   margin:50px, auto, 0, auto;
+   color: #66BFBF;
+
+}
+.bb{
+    font-family:Updock;
+    font-size:2.5rem;
+    color: #66BFBF;
+}
+
+
+.contact-top{
+    padding-top:40px;
+    text-align: center;
+    font-size: 40px;
+    font-family:Updock;
+    font-weight:bold;
+}
+
+
+.formdiv{text-align: center;
+   font-weight:bolder;
+   max-width:100%;
+   margin-left:auto;
+   margin-right:auto;
+  
+}
+.contact-table{margin:auto;
+    text-align:center;
+}
+
+.submit{
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.forest{
+    max-width: 100%;
+    position:relative;
+    bottom:10px;
+}
+
+
+.mountain{
+    
+   margin-left:auto;
+   margin-right:auto;
+   max-width:100%;
+ 
+   
+}
+
+
+.afterform-text{text-align:center;
+    font-family:Updock;
+    font-size:40px;
+    
+}
+.poetryimage{
+    height:100px;
+    float:left;
+    margin-right: 30px;
+}
+
+.coding{
+    max-width:100%;
+    height:100px;
+    float:right;
+    margin-left: 30px;
+}
+
+.forest-contactme{
+    max-width:fit-content;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+h3{
+    color: #11999E;
+}
+h2{
+    color: #11999E;
+}
+
+.footerlink{
+    color: #11999E;
+}
+
+.skill-row{
+    margin-top:100px;
+    margin-bottom:100px;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    text-align: right;
+   
+}
+
+
+hr{margin-top:3em;
+    margin-bottom:3em;
+
+    border-style: dotted;
+   border-left:none;
+   border-right:none;
+   border-bottom:none;
+    border-width: 8px;
+    width:10%;
+    border-color:#d1dbdb;
+}
+
+.myimg1{
+    height:100px;
+}
